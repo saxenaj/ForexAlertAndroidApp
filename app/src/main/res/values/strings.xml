@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ForexAlert</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="convert_from">
+        <item>USD</item>
+   </string-array>
+
+    <string-array name="convert_to">
+        <item>INR</item>
+    </string-array>
+
+
+</resources>
